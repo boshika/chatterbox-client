@@ -82,3 +82,16 @@ form input[type=text] {
 .spinner img {
     padding: 10px;
 }
+
+.get-latest-messages {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+#sidebar {
+    float: right;
+    background-color: #FFF;
+    width: 160px;
+    height: 700px;
+}
